@@ -21,3 +21,5 @@ Metode penelitian yang digunakan meliputi:
 5.	Pembangunan model Random Forest 
 6.	Evaluasi model 
 7.	Interpretasi hasil
+
+DATASET : https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
